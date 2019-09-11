@@ -8,4 +8,4 @@ Steps:
 4. Install required python packages.
 5. Run code and enter keywords.
 
-The class generated will be saved as a file in the directory.
+The class generated will be saved as a file in the directory. If failed a log file is generated.
